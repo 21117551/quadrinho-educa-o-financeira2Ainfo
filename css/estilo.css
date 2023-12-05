@@ -1,0 +1,73 @@
+#pai{
+	display: 
+	flex-direction: column;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+}
+.filho1{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+}
+.fi2{
+	width: 200px;
+	height: 200px;
+}
+.pai2{
+	margin-top: 50px;
+	display: flex;
+	flex-direction: row;
+	width: 200px;
+	height:200px;
+}
+.pai3{
+	display: flex;
+	flex-direction: row;
+	width: 200px;
+	height:200px;
+}
+.pai4{
+	display: flex;
+	flex-direction: row;
+	width: 90px
+	height:200px;
+}
+.pai5{
+	display: flex;
+	flex-direction: row;
+	width: 200px
+	height:200px;
+}
+.pai6{
+	width: 200px
+	height:200px;
+}
+.pai7{
+	background-color: white;
+	width: 200px;
+	height:200px;
+}
+.textos{
+	background-color: white;
+	width: 200px;
+	display: flex;
+	flex-direction: row;
+}
+#rot{
+	font-size: 25px;
+	margin-right: 60px;
+	color:medium :green;
+}
+.if{
+	width: 369px;
+	height: 124px;
+}
+.dad1{
+	background-color: white;
+	flex-direction: row;
+}
+.td1{
+	background-color: white;
+	width: 
+}
